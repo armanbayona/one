@@ -1,0 +1,11 @@
+CLI LOG
+
+cd
+ls
+pwd
+touch
+mkdir
+rmdir
+man
+rm <file>
+rm -rf <dir>
